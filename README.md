@@ -1,7 +1,7 @@
 # .github 
 This repository contains examples of work and research I completed for Stephanie Zollman at the University Of Otago. The orginization showcases the variety of work I conducted as well as the assignments and research I completed. Below you will find a detailed description of the contents.
 
-List of Repositories:
+##List of Repositories:
 
 Description: This contains the code created to conduct for Assignment 1.
 
