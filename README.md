@@ -4,13 +4,12 @@ This repository contains examples of work and research I completed for Stephanie
 List of Repositories:
 
 Description: This contains the code created to conduct for Assignment 1.
+
 Link: [Features2024](https://github.com/University-Of-Otago-COMP342/Features2024)
 
 Description: This contains the code created to conduct for Assignment 2.
+
 Link: [Stereo2024](https://github.com/University-Of-Otago-COMP342/stereo2024)
 
 Description: This contains the code created to conduct for Assignment 3.
-Link: 
-
-Installation
-To clone and run these projects locally, follow these steps:
+Link: [RenderEngine](https://github.com/University-Of-Otago-COMP342/RenderEngine)
